@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bshclosegrip
+- 👋 Hi, I’m @bsh
 - 👀 I’m interested in ...java spring
 - 🌱 I’m currently learning ... android
 - 💞️ I’m looking to collaborate on ... c&c
