@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 [![Github Followers](https://img.shields.io/github/followers/bshclosegrip?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/bshclosegrip?tab=followers)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FutilForever)](https://github.com/bshclosegrip)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crushonu8@gmail.com)](mailto:crushonu8@gmail.com)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=bshclosegrip&theme=chalk&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=bshclosegrip&theme=calm)](https://github.com/bshclosegrip)
 
