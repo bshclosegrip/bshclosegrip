@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 [![bshclosegrip's github stats](https://github-readme-stats.vercel.app/api?username=bshclosegrip&show_icons=true&theme=dracula)](https://github.com/bshclosegrip)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshclosegrip&layout=compact&langs_count=8&theme=dracula)](https://github.com/bshclosegrip)
 
-# learning
+# Learning
 - Java, TypeScript
 - Spring, Node js
 - Computer Graphics/Vision, Fluid Simulation
 
-# collaborate
+# Collaborate
 - Me Myself
 
