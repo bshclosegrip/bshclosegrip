@@ -1,6 +1,5 @@
-- 👀 I’m interested in ...java spring
+- 👀 I’m interested in ... java spring
 - 🌱 I’m currently learning ... android
-- 💞️ I’m looking to collaborate on ... c&c
 
 <!---
 bshclosegrip/bshclosegrip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
