@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hello! Welcome to @bshclosegrip Github profile! 💞️
-- Senghuyun Byun ... lemonade081@naver.com
+- Senghuyn Byun ... lemonade081@naver.com
 - ***"Ride or Die Remember?"*** ... someone said
 - interested in ... spring
 - currently learning ... android
