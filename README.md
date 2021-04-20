@@ -1,4 +1,4 @@
-- 👀 I’m interested in ... java spring
+- 👀 I’m interested in ... spring
 - 🌱 I’m currently learning ... android
 
 <!---
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Senghuyun Byun : lemonade081@naver.com
 
-## ***"Ride or Die Remember?" -- Someone in the movie***
+### ***"Ride or Die Remember?" -- Someone in the movie***
 
 [![Github Followers](https://img.shields.io/github/followers/bshclosegrip?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/bshclosegrip?tab=followers)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbshclosegrip)](https://github.com/bshclosegrip)
