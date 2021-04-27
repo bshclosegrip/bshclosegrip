@@ -26,5 +26,5 @@ You can click the Preview link to take a look at your changes.
 - Computer Graphics/Vision, Fluid Simulation
 
 # Collaborate
-- Me Myself
+- progress is on going
 
