@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Hello! Welcome to @bshclosegrip Github profile!
 - SenghuynByun ... lemonade081@naver.com
 - ***"Ride or Die Remember?"*** ... someone said
-- interested in ... spring
+- interested in ... spring boot / Fluid Simulation
 - currently learning ... android
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbshclosegrip)](https://github.com/bshclosegrip)
@@ -22,7 +22,9 @@ You can click the Preview link to take a look at your changes.
 # Learning
 - Java, TypeScript
 - Spring, Node js
-- Computer Graphics/Vision, Fluid Simulation
+- Computer Graphics/Vision
 
 # Collaborate
 - progress is on going
+- WC300
+- NaU Testing, Parallel Processing 
