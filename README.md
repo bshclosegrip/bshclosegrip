@@ -28,3 +28,5 @@ You can click the Preview link to take a look at your changes.
 - progress is on going
 - WC300
 - NaU Testing, Parallel Processing 
+- HYUNDAI AUTOEVER
+- DSE
