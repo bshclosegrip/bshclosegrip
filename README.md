@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 - SenghuynByun ... lemonade081@naver.com
 - ***"Ride or Die Remember?"*** ... someone said
 - interested in ... spring boot / Fluid Simulation
-- currently learning ... android
+- currently ... android developer
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbshclosegrip)](https://github.com/bshclosegrip)
 
@@ -20,13 +20,15 @@ You can click the Preview link to take a look at your changes.
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=bshclosegrip&theme=calm)](https://github.com/bshclosegrip)
 
 # Learning
-- Java, TypeScript
+- Java
+- Android(AVN, Mobile)
 - Spring, Node js
 - Computer Graphics/Vision
 
+
 # Collaborate
 - progress is on going
-- WC300
-- NaU Testing, Parallel Processing 
-- HYUNDAI AUTOEVER
-- DSE
+- WC300 Setting
+- KU USB Update
+- NaU Parallel Processing 
+- India PIO
