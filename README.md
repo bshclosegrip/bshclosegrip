@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - interested in ... spring boot / Fluid Simulation
 - currently ... android developer
 
-// [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbshclosegrip)](https://github.com/bshclosegrip)
+<!--- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbshclosegrip)](https://github.com/bshclosegrip) --->
 
 [![bshclosegrip's github stats](https://github-readme-stats.vercel.app/api?username=bshclosegrip&show_icons=true&theme=dracula)](https://github.com/bshclosegrip)
 
