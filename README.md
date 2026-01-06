@@ -7,11 +7,11 @@ You can click the Preview link to take a look at your changes.
 Android developer with hands-on experience in IVI systems, Bluetooth, USB media, and launcher maintenance, currently expanding expertise in BLE, graphics processing, and system architecture.
 
 
-# interested in
+# Interested in
 - Android ivi / System-Level Development
 
 
-# currently
+# Currently
 - Android Application Developer
 
 
