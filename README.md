@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hello! Welcome to @bshclosegrip Github profile!
-Android developer with hands-on experience in IVI systems, Bluetooth, USB media, and launcher maintenance, currently expanding expertise in BLE, graphics processing, and system architecture.
+- Android developer with hands-on experience in IVI systems, Bluetooth, USB media, and launcher maintenance, currently expanding expertise in BLE, graphics processing, and system architecture.
 
 
 # Interested in
